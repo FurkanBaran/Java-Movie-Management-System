@@ -1,0 +1,4 @@
+1 Ayşe Deniz Mother 8
+2 Mehmet Deniz Father 5
+3 Zeynep Deniz Sister 7
+4 Ahmet Deniz Brother 9
