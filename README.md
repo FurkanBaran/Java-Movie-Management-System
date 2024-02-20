@@ -1,5 +1,5 @@
 # MovieDatabaseApplication
-## Movie Database Application with Java 
+## Movie Database Application with Java, 2022
 My first Java desktop app, it uses text files to store data.
 # Pseudo login screen
 ![Screenshot00](https://github.com/FurkanBaran/MovieDatabaseApplication/assets/21145014/d928157f-f4af-4223-9a8c-d4695ce4b24d)
