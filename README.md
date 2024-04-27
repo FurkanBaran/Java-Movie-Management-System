@@ -1,7 +1,7 @@
 
-# Java Movie Management System -2022
+# Java Movie Management System
 
-This is a Java Swing-based desktop application designed as **my first Java program**. It uses a text file as a simple database to manage movie-related data. The application offers a comprehensive set of features for managing movies, stars, and their ratings.
+This Java application is **my first Java project**, quickly developed over the course of **1-2 days** upon request. It uses a text file as a simple database to manage movie-related data. The application offers a comprehensive set of features for managing movies, stars, and their ratings.
 
 ## Features
 
