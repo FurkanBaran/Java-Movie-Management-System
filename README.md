@@ -38,7 +38,7 @@ This Java application is **my first Java project**, quickly developed over the c
 
 1.  **Clone the repository:**
     
-    `git clone https://github.com/your-username/java-movie-management.git` 
+    `git clone https://github.com/FurkanBaran/java-movie-management.git` 
     
 2.  **Open Eclipse** and go to `File > Import`.
     
