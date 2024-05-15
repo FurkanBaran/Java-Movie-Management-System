@@ -21,7 +21,7 @@ This Java application is **my first Java project**, quickly developed over the c
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Java-Movie-Management-System.git
+   git clone https://github.com/FurkanBaran/Java-Movie-Management-System.git
    cd Java-Movie-Management-System
 
 
